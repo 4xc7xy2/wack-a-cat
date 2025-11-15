@@ -77,7 +77,7 @@ def randrange_pow(range_vals, pow_val):
 
 class WhackACatUI:
     def __init__(self, root):
-
+        # Initialize the main window and UI elements
         self.root = root
         self.root.title("Whack-a-Cat 🐱")
         self.root.resizable(False, False)
