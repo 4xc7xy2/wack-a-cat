@@ -9,7 +9,6 @@ from decimal import Decimal
 # This version of Whack-a-Cat uses Tkinter for a simple UI
 # Tkinter is Python's built-in GUI toolkit. using it to:
 #   - Draw clickable buttons instead of ASCII boxes
-#   - Show labels for score and accuracy
 #   - Replace "ENTER" inputs with button clicks
 #   - Use threading so that the cat appears/disappears on a timer
 
